@@ -4,7 +4,7 @@ namespace App\Traits;
 
 use Hidehalo\Nanoid\Client;
 
-trait Uuids
+trait Nanoids
 {
     /**
      * Boot function from Laravel.

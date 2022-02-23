@@ -109,7 +109,7 @@
         "symbol": "BUSD",
         "description": "Binance USD",
         "image_url": "",
-        "is_active": true
+        "is_active": false
     },
     {
         "group": "DeFi",
@@ -151,7 +151,7 @@
         "symbol": "DAI",
         "description": "Dai Token",
         "image_url": "",
-        "is_active": true
+        "is_active": false
     },
     {
         "group": "GameFi",
@@ -165,7 +165,7 @@
         "symbol": "DGX",
         "description": "Digix Gold",
         "image_url": "",
-        "is_active": true
+        "is_active": false
     },
     {
         "group": "Meme",
@@ -256,7 +256,7 @@
         "symbol": "GEMINI",
         "description": "Gemini Dollar",
         "image_url": "",
-        "is_active": true
+        "is_active": false
     },
     {
         "group": "GameFi",
@@ -501,14 +501,14 @@
         "symbol": "USDC",
         "description": "USD Coin",
         "image_url": "",
-        "is_active": true
+        "is_active": false
     },
     {
         "group": "Stablecoin",
         "symbol": "USDT",
         "description": "Tether US",
         "image_url": "",
-        "is_active": true
+        "is_active": false
     },
     {
         "group": "ส่งต่อมูลค่า",

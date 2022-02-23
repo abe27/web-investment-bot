@@ -1,5 +1,5 @@
 [{
-        "group": "Crypto",
+        "group_id": "Crypto",
         "name": "BINANCE",
         "description": "",
         "currency": "USD",
@@ -7,7 +7,7 @@
         "is_active": true
     },
     {
-        "group": "Crypto",
+        "group_id": "Crypto",
         "name": "BINANCEUS",
         "description": "",
         "currency": "USD",
@@ -15,7 +15,7 @@
         "is_active": false
     },
     {
-        "group": "Crypto",
+        "group_id": "Crypto",
         "name": "BINGBON",
         "description": "",
         "currency": "USD",
@@ -23,7 +23,7 @@
         "is_active": false
     },
     {
-        "group": "Crypto",
+        "group_id": "Crypto",
         "name": "BITCOKE",
         "description": "",
         "currency": "USD",
@@ -31,7 +31,7 @@
         "is_active": false
     },
     {
-        "group": "Crypto",
+        "group_id": "Crypto",
         "name": "BITFINEX",
         "description": "",
         "currency": "USD",
@@ -39,7 +39,7 @@
         "is_active": false
     },
     {
-        "group": "Crypto",
+        "group_id": "Crypto",
         "name": "BITFLYER",
         "description": "",
         "currency": "USD",
@@ -47,7 +47,7 @@
         "is_active": false
     },
     {
-        "group": "Crypto",
+        "group_id": "Crypto",
         "name": "BITHUMB",
         "description": "",
         "currency": "USD",
@@ -55,7 +55,7 @@
         "is_active": false
     },
     {
-        "group": "Crypto",
+        "group_id": "Crypto",
         "name": "BITKUB",
         "description": "",
         "currency": "THB",
@@ -63,7 +63,7 @@
         "is_active": true
     },
     {
-        "group": "Crypto",
+        "group_id": "Crypto",
         "name": "BITPANDAPRO",
         "description": "",
         "currency": "USD",
@@ -71,7 +71,7 @@
         "is_active": false
     },
     {
-        "group": "Crypto",
+        "group_id": "Crypto",
         "name": "BITSO",
         "description": "",
         "currency": "USD",
@@ -79,7 +79,7 @@
         "is_active": false
     },
     {
-        "group": "Crypto",
+        "group_id": "Crypto",
         "name": "BITSTAMP",
         "description": "",
         "currency": "USD",
@@ -87,7 +87,7 @@
         "is_active": false
     },
     {
-        "group": "Crypto",
+        "group_id": "Crypto",
         "name": "BITTREX",
         "description": "",
         "currency": "USD",
@@ -95,7 +95,7 @@
         "is_active": false
     },
     {
-        "group": "Crypto",
+        "group_id": "Crypto",
         "name": "BTCYOU",
         "description": "",
         "currency": "USD",
@@ -103,7 +103,7 @@
         "is_active": false
     },
     {
-        "group": "Crypto",
+        "group_id": "Crypto",
         "name": "BYBIT",
         "description": "",
         "currency": "USD",
@@ -111,7 +111,7 @@
         "is_active": false
     },
     {
-        "group": "Crypto",
+        "group_id": "Crypto",
         "name": "CAPITALCOM",
         "description": "",
         "currency": "USD",
@@ -119,7 +119,7 @@
         "is_active": false
     },
     {
-        "group": "Crypto",
+        "group_id": "Crypto",
         "name": "CEXIO",
         "description": "",
         "currency": "USD",
@@ -127,7 +127,7 @@
         "is_active": false
     },
     {
-        "group": "Crypto",
+        "group_id": "Crypto",
         "name": "COINBASE",
         "description": "",
         "currency": "USD",
@@ -135,7 +135,7 @@
         "is_active": false
     },
     {
-        "group": "Crypto",
+        "group_id": "Crypto",
         "name": "COINEX",
         "description": "",
         "currency": "USD",
@@ -143,7 +143,7 @@
         "is_active": false
     },
     {
-        "group": "Crypto",
+        "group_id": "Crypto",
         "name": "CURRENCYCOMLEV",
         "description": "",
         "currency": "USD",
@@ -151,7 +151,7 @@
         "is_active": false
     },
     {
-        "group": "Crypto",
+        "group_id": "Crypto",
         "name": "EXMO",
         "description": "",
         "currency": "USD",
@@ -159,7 +159,7 @@
         "is_active": false
     },
     {
-        "group": "Crypto",
+        "group_id": "Crypto",
         "name": "FTX",
         "description": "",
         "currency": "USD",
@@ -167,7 +167,7 @@
         "is_active": false
     },
     {
-        "group": "Crypto",
+        "group_id": "Crypto",
         "name": "GEMINI",
         "description": "",
         "currency": "USD",
@@ -175,7 +175,7 @@
         "is_active": false
     },
     {
-        "group": "Crypto",
+        "group_id": "Crypto",
         "name": "GLOBALPRIME ",
         "description": "",
         "currency": "USD",
@@ -183,7 +183,7 @@
         "is_active": false
     },
     {
-        "group": "Crypto",
+        "group_id": "Crypto",
         "name": "HITBTC",
         "description": "",
         "currency": "USD",
@@ -191,7 +191,7 @@
         "is_active": false
     },
     {
-        "group": "Crypto",
+        "group_id": "Crypto",
         "name": "HUOBI",
         "description": "",
         "currency": "USD",
@@ -199,7 +199,7 @@
         "is_active": false
     },
     {
-        "group": "Crypto",
+        "group_id": "Crypto",
         "name": "KORBIT",
         "description": "",
         "currency": "USD",
@@ -207,7 +207,7 @@
         "is_active": false
     },
     {
-        "group": "Crypto",
+        "group_id": "Crypto",
         "name": "KRAKEN",
         "description": "",
         "currency": "USD",
@@ -215,7 +215,7 @@
         "is_active": false
     },
     {
-        "group": "Crypto",
+        "group_id": "Crypto",
         "name": "KUCOIN",
         "description": "",
         "currency": "USD",
@@ -223,7 +223,7 @@
         "is_active": false
     },
     {
-        "group": "Crypto",
+        "group_id": "Crypto",
         "name": "MERCADO",
         "description": "",
         "currency": "USD",
@@ -231,7 +231,7 @@
         "is_active": false
     },
     {
-        "group": "Crypto",
+        "group_id": "Crypto",
         "name": "OKCOIN",
         "description": "",
         "currency": "USD",
@@ -239,7 +239,7 @@
         "is_active": false
     },
     {
-        "group": "Crypto",
+        "group_id": "Crypto",
         "name": "OKEX",
         "description": "",
         "currency": "USD",
@@ -247,7 +247,7 @@
         "is_active": false
     },
     {
-        "group": "Crypto",
+        "group_id": "Crypto",
         "name": "PHEMEX",
         "description": "",
         "currency": "USD",
@@ -255,7 +255,7 @@
         "is_active": false
     },
     {
-        "group": "Crypto",
+        "group_id": "Crypto",
         "name": "POLONIEX",
         "description": "",
         "currency": "USD",
@@ -263,7 +263,7 @@
         "is_active": false
     },
     {
-        "group": "Crypto",
+        "group_id": "Crypto",
         "name": "THEROCKTRADING",
         "description": "",
         "currency": "USD",
@@ -271,7 +271,7 @@
         "is_active": false
     },
     {
-        "group": "Crypto",
+        "group_id": "Crypto",
         "name": "TIMEX",
         "description": "",
         "currency": "USD",
@@ -279,7 +279,7 @@
         "is_active": false
     },
     {
-        "group": "Crypto",
+        "group_id": "Crypto",
         "name": "TRADESTATION",
         "description": "",
         "currency": "USD",

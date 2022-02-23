@@ -4,7 +4,7 @@
     "last_name": "Yuenyang",
     "email": "krumii.it@gmail.com",
     "password": "1q2w3e4r5t6y",
-    "exchange": [
+    "api_token": [
       {
         "name": "Binance", "limit": 9999999, "order": 0
       },
@@ -12,6 +12,7 @@
         "name": "Bitkub", "limit": 9999999, "order": 0
       }
     ],
+    "user_class": "A",
     "anti_spam_code": "2530",
     "verified": true,
     "is_admin": true
@@ -21,7 +22,7 @@
     "last_name": "Yuenyang",
     "email": "taweechai@seiwa-pioneer.com",
     "password": "1q2w3e4r5t6y",
-    "exchange": [
+    "api_token": [
       {
         "name": "Binance", "limit": 50, "order": 1
       },
@@ -29,6 +30,7 @@
         "name": "Bitkub", "limit": 50, "order": 1
       }
     ],
+    "user_class": "A",
     "anti_spam_code": "2558",
     "verified": true,
     "is_admin": false
@@ -38,7 +40,7 @@
     "last_name": "Yuenyang",
     "email": "kanomthaios@hotmail.com",
     "password": "1q2w3e4r5t6y",
-    "exchange": [
+    "api_token": [
       {
         "name": "Binance", "limit": 50, "order": 1
       },
@@ -46,6 +48,7 @@
         "name": "Bitkub", "limit": 50, "order": 1
       }
     ],
+    "user_class": "A",
     "anti_spam_code": "2565",
     "verified": true,
     "is_admin": false
